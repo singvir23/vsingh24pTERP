@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <h1>CMSC335 Deployment Project</h1>
+
+    <div class="info-section">
+        <div class="info-item">
+            <span class="label">Name:</span>
+            <span>Viraaj Singh</span>
+        </div>
+
+        <div class="info-item">
+            <span class="label">GitHub Location:</span>
+            <a href="https://github.com/singvir23/335HostingProject" target="_blank">
+                https://github.com/singvir23/335HostingProject
+            </a>
+        </div>
+
+        <div class="info-item">
+            <span class="label">Render Location:</span>
+            <a href="https://three35hostingproject.onrender.com/" target="_blank">
+                https://three35hostingproject.onrender.com/
+            </a>
+        </div>
+    </div>
+
+    <div class="info-section">
+        <h2>Application Endpoints</h2>
+
+        <div class="info-item">
+            <span class="label">Clearing Database Movies:</span>
+            <a href="https://three35hostingproject.onrender.com/clearCollection" target="_blank">
+                /clearCollection
+            </a>
+        </div>
+
+        <div class="info-item">
+            <span class="label">Inserting Movies:</span>
+            <a href="https://three35hostingproject.onrender.com/insertMovies" target="_blank">
+                /insertMovies
+            </a>
+        </div>
+
+        <div class="info-item">
+            <span class="label">List Movies:</span>
+            <a href="https://three35hostingproject.onrender.com/listMovies" target="_blank">
+                /listMovies
+            </a>
+        </div>
+    </div>
+</body>
+</html>
